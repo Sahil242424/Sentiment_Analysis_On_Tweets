@@ -1,5 +1,0 @@
-tweepy
-textblob
-pandas
-numpy
-matplotlib
